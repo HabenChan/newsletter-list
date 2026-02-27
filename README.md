@@ -8,8 +8,6 @@
 写作 Newsletter 工具或者平台，排名不分先后。
 - [Substack](https://substack.com/) Start a paid newsletter，国外比较成功的一个 Newsletter 平台
 - [Getrevue](https://www.getrevue.co/) 已经宣布关站，详见 www.getrevue.co/app/offboard
-- [知园](https://zhiy.cc/) 取自一个小众概念“数字花园”
-- [竹白](https://zhubai.love/) 支持多种订阅方式的 newsletter 平台，且支持微信订阅。
 ---
 
 ## 互联网和科技
@@ -41,6 +39,7 @@
 - [生活奇旅](https://weichen.blog/22/) 探寻如何更好地生活。
 - [DecoHack周刊](https://decohack.zhubai.love/) 为独立创造者提供独立见解，帮助你发现新产品方向，启动和完善你的项目。
 - [数据女孩的中年危机](https://stellaxamy.substack.com/) 每周更新。两个在北美做数据相关工作的博主聊行业趋势，也与各行各业的朋友聊天，了解世界，和听众（读者）一起寻找不一样的可能。博客是[播客](https://open.firstory.me/user/stellaxamy/platforms)的逐字稿。
+- [更好生活](https://quaily.com/jiayifun)不定期分享我的碎片思考和阅读笔记, 有关 Porductivity & Self-Improvement
 
 
 ---
